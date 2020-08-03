@@ -1,0 +1,9 @@
+D:\2.FormCalismalar\TicketData\TicketData.Domain\bin\Debug\TicketData.Domain.dll
+D:\2.FormCalismalar\TicketData\TicketData.Domain\bin\Debug\TicketData.Domain.pdb
+D:\2.FormCalismalar\TicketData\TicketData.Domain\bin\Debug\TicketData.Core.dll
+D:\2.FormCalismalar\TicketData\TicketData.Domain\bin\Debug\TicketData.Core.pdb
+D:\2.FormCalismalar\TicketData\TicketData.Domain\obj\Debug\TicketData.Domain.csprojAssemblyReference.cache
+D:\2.FormCalismalar\TicketData\TicketData.Domain\obj\Debug\TicketData.Domain.csproj.CoreCompileInputs.cache
+D:\2.FormCalismalar\TicketData\TicketData.Domain\obj\Debug\TicketData.Domain.csproj.CopyComplete
+D:\2.FormCalismalar\TicketData\TicketData.Domain\obj\Debug\TicketData.Domain.dll
+D:\2.FormCalismalar\TicketData\TicketData.Domain\obj\Debug\TicketData.Domain.pdb
